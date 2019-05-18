@@ -1,1 +1,5 @@
-# Google_Search_Keywords_Highlight
+# Google Search Keywords Highlight
+
+Chrome Extension; Highlight all copies of the searched keywords on google search page
+
+![Example](screenshot.PNG)
